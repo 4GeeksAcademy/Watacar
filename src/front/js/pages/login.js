@@ -53,7 +53,7 @@ export const Login = () => {
                                 value={email}
                                 onChange={handleEmailChange}
                             />
-                            <small id="emailHelp" className="form-text text-muted">Nunca compartiremos tus datos con nadie</small>
+                           
                         </div>
 
                         <br />
